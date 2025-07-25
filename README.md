@@ -6,7 +6,7 @@ Cybersecurity Student at United Institute of Technology
 - 🌱 I’m currently learning Cloud computing @ (www.spotknack.com)
   
 - Social Presence
- <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/reena-sureshkumar-b4bbbb345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/reenamrkj?igsh=MTVzb2EyczJsMG5ocw==)
+ <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/reenasureshkumar) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/reenamrkj?igsh=MTVzb2EyczJsMG5ocw==)
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />
